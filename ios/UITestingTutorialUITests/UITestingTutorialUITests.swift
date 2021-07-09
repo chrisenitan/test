@@ -24,11 +24,7 @@ class UITestingTutorialUITests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
     
-    struct testString {
-        static var fName = "Chris"
-        static var pass = "12345"
-    }
-    
+ 
     
     func testExample() throws {
 
@@ -36,37 +32,29 @@ class UITestingTutorialUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
         
-        
-        //assert main page
-        let tablesQuery = app.tables
-        let radioStaticText = tablesQuery/*@START_MENU_TOKEN@*/.staticTexts["Radio"]/*[[".cells.staticTexts[\"Radio\"]",".staticTexts[\"Radio\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
-        let profileButton = app.navigationBars["Mockify Music"].buttons["Profile"]
-        let justForYouBtn = tablesQuery/*@START_MENU_TOKEN@*/.staticTexts["Just For You"]/*[[".cells.staticTexts[\"Just For You\"]",".staticTexts[\"Just For You\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
-        let loginButton =   app/*@START_MENU_TOKEN@*/.staticTexts["Login"]/*[[".buttons[\"Login\"].staticTexts[\"Login\"]",".staticTexts[\"Login\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
-        
         //define input fields
         let  usernameInput = app.textFields["Username"]
         let passwordInput = app.secureTextFields["Password"]
         
         
         //basic page assertions
-        XCTAssertTrue(radioStaticText.exists)
-        radioStaticText.tap()
-        justForYouBtn.tap()
-        radioStaticText.tap()
+        XCTAssertTrue(selector.radioStaticText.exists)
+        selector.radioStaticText.tap()
+        selector.justForYouBtn.tap()
+        selector.radioStaticText.tap()
         
-        //form actions
-        profileButton.tap()
+        //click profile
+        selector.profileButton.tap()
         
         //action username
         usernameInput.tap()
-        usernameInput.typeText(testString.fName)
+        usernameInput.typeText(selector.fName)
       
         //action password
         passwordInput.tap()
-        usernameInput.typeText(testString.pass)
+        passwordInput.typeText(selector.password)
         
-        loginButton.tap()
+        selector.loginButton.tap()
         XCTAssertTrue(app.alerts["Invalid Credentials"].exists)
         
         app.alerts["Invalid Credentials"].scrollViews.otherElements.buttons["Ok"].tap()

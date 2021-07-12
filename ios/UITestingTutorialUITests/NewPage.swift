@@ -32,4 +32,8 @@ class NewPageTest: XCTestCase {
             }
         }
     }
+    
+    func doThisThere(){
+        print("Test is starting")
+    }
 }

@@ -12,11 +12,13 @@ class UITestingTutorialUITests: XCTestCase {
     
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
+        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
         
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
-        
-        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
+ 
+        //log something
+        NewPageTest().doThisThere()
         
     }
     
@@ -24,14 +26,12 @@ class UITestingTutorialUITests: XCTestCase {
         app.terminate()
     }
     
- 
     
-    func testLogin() throws {
+    func testFailedLogin() throws {
 
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
         app.launch()
-        
         
         //basic page assertions
         XCTAssertTrue(selector.radioStaticText.exists)
@@ -49,12 +49,44 @@ class UITestingTutorialUITests: XCTestCase {
         //action password
         selector.passwordInput.tap()
         selector.passwordInput.typeText(selector.password)
-        //selector.passwordInput.typeText(ProcessInfo.environment["account_name"])
       
+        //login
         selector.loginButton.tap()
         XCTAssertTrue(app.alerts["Invalid Credentials"].exists)
         
+        //hanlde error
         app.alerts["Invalid Credentials"].scrollViews.otherElements.buttons["Ok"].tap()
+        
+    }
+    
+    func testSuccessfulLogin() throws {
+
+        // UI tests must launch the application that they test.
+        let app = XCUIApplication()
+        app.launch()
+        
+        //basic page assertions
+        XCTAssertTrue(selector.radioStaticText.exists)
+        selector.radioStaticText.tap()
+        selector.justForYouBtn.tap()
+        selector.radioStaticText.tap()
+        
+        //click profile
+        selector.profileButton.tap()
+        
+        //action username
+        selector.usernameInput.tap()
+        selector.usernameInput.typeText(selector.expectedUserName)
+      
+        //action password
+        selector.passwordInput.tap()
+        selector.passwordInput.typeText(selector.expectedPassword)
+      
+        //login
+        selector.loginButton.tap()
+        
+        //assert login
+        XCTAssertTrue(selector.downloadsButton.exists)
         
     }
     
@@ -66,4 +98,5 @@ class UITestingTutorialUITests: XCTestCase {
             }
         }
     }
+    
 }

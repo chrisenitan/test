@@ -15,7 +15,7 @@
 		98ADD494214CB88700FCA1B4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98ADD493214CB88700FCA1B4 /* TableViewController.swift */; };
 		AF26AA1E2698ADCE002E93DB /* UITestingTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26AA1D2698ADCE002E93DB /* UITestingTutorialUITests.swift */; };
 		AF26AA262698B7C6002E93DB /* NewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26AA252698B7C6002E93DB /* NewPage.swift */; };
-		AF26AA2A2698C1B4002E93DB /* selectors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26AA292698C1B4002E93DB /* selectors.swift */; };
+		AF26AA2A2698C1B4002E93DB /* index.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26AA292698C1B4002E93DB /* index.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,8 @@
 		AF26AA1D2698ADCE002E93DB /* UITestingTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingTutorialUITests.swift; sourceTree = "<group>"; };
 		AF26AA1F2698ADCF002E93DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF26AA252698B7C6002E93DB /* NewPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPage.swift; sourceTree = "<group>"; };
-		AF26AA292698C1B4002E93DB /* selectors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selectors.swift; sourceTree = "<group>"; };
+		AF26AA292698C1B4002E93DB /* index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = index.swift; sourceTree = "<group>"; };
+		AF26AA2C2698E2E8002E93DB /* TestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +98,21 @@
 		AF26AA1C2698ADCE002E93DB /* UITestingTutorialUITests */ = {
 			isa = PBXGroup;
 			children = (
+				AF26AA2B2698CD61002E93DB /* selectors */,
 				AF26AA1D2698ADCE002E93DB /* UITestingTutorialUITests.swift */,
+				AF26AA2C2698E2E8002E93DB /* TestPlan.xctestplan */,
 				AF26AA252698B7C6002E93DB /* NewPage.swift */,
 				AF26AA1F2698ADCF002E93DB /* Info.plist */,
-				AF26AA292698C1B4002E93DB /* selectors.swift */,
 			);
 			path = UITestingTutorialUITests;
+			sourceTree = "<group>";
+		};
+		AF26AA2B2698CD61002E93DB /* selectors */ = {
+			isa = PBXGroup;
+			children = (
+				AF26AA292698C1B4002E93DB /* index.swift */,
+			);
+			path = selectors;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,7 +228,7 @@
 			files = (
 				AF26AA1E2698ADCE002E93DB /* UITestingTutorialUITests.swift in Sources */,
 				AF26AA262698B7C6002E93DB /* NewPage.swift in Sources */,
-				AF26AA2A2698C1B4002E93DB /* selectors.swift in Sources */,
+				AF26AA2A2698C1B4002E93DB /* index.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +424,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = Test.UITestingTutorialUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -434,6 +445,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = Test.UITestingTutorialUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

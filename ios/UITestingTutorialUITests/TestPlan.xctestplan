@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "3D64BD56-28E3-457D-BB3B-00F12E7AD4F5",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "NewPageTest",
+        "UITestingTutorialUITests\/testLaunchPerformance()"
+      ],
+      "target" : {
+        "containerPath" : "container:UITestingTutorial.xcodeproj",
+        "identifier" : "AF26AA1A2698ADCE002E93DB",
+        "name" : "UITestingTutorialUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

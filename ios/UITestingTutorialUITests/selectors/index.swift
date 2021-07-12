@@ -12,13 +12,13 @@ let app = XCUIApplication()
 
 struct selector {
     static var fName = "Chris"
-    static var password = "yUMMY"
+    static var password = "Yummy"
     static var tablesQuery = app.tables
     static var radioStaticText = app.tables/*@START_MENU_TOKEN@*/.staticTexts["Radio"]/*[[".cells.staticTexts[\"Radio\"]",".staticTexts[\"Radio\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
     static var justForYouBtn = app.tables/*@START_MENU_TOKEN@*/.staticTexts["Just For You"]/*[[".cells.staticTexts[\"Just For You\"]",".staticTexts[\"Just For You\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
     static var loginButton = app/*@START_MENU_TOKEN@*/.staticTexts["Login"]/*[[".buttons[\"Login\"].staticTexts[\"Login\"]",".staticTexts[\"Login\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/
     static var profileButton = app.navigationBars["Mockify Music"].buttons["Profile"]
+    static var usernameInput = app.textFields["Username"]
+    static var passwordInput = app.secureTextFields["Password"]
+    
 }
-
-
-

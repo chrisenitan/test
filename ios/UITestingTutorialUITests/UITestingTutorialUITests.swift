@@ -21,20 +21,16 @@ class UITestingTutorialUITests: XCTestCase {
     }
     
     override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+        app.terminate()
     }
     
  
     
-    func testExample() throws {
+    func testLogin() throws {
 
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
         app.launch()
-        
-        //define input fields
-        let  usernameInput = app.textFields["Username"]
-        let passwordInput = app.secureTextFields["Password"]
         
         
         //basic page assertions
@@ -47,13 +43,14 @@ class UITestingTutorialUITests: XCTestCase {
         selector.profileButton.tap()
         
         //action username
-        usernameInput.tap()
-        usernameInput.typeText(selector.fName)
+        selector.usernameInput.tap()
+        selector.usernameInput.typeText(selector.fName)
       
         //action password
-        passwordInput.tap()
-        passwordInput.typeText(selector.password)
-        
+        selector.passwordInput.tap()
+        selector.passwordInput.typeText(selector.password)
+        //selector.passwordInput.typeText(ProcessInfo.environment["account_name"])
+      
         selector.loginButton.tap()
         XCTAssertTrue(app.alerts["Invalid Credentials"].exists)
         

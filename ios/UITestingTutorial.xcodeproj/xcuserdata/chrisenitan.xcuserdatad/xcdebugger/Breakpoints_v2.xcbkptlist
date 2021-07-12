@@ -36,5 +36,251 @@
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "518BA313-7DB5-4D17-9837-B9A014017074"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestingTutorialUITests/UITestingTutorialUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - 59f3020b5ada1212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - 5103d57a27c88f8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - a7a7ccb57b6a6d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - 6661505c275eac6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init(selector: ObjectiveC.Selector) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - cf33b84439145c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init() -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - 2840e952ef480e49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init() -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "518BA313-7DB5-4D17-9837-B9A014017074 - 21543c5b4e9fbd30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__deallocating_deinit"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A369FC23-F469-40C6-B14A-4DE68B552563"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestingTutorialUITests/UITestingTutorialUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "UITestingTutorialUITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - 59f3020b5ada1212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - 5103d57a27c88f8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - a7a7ccb57b6a6d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - 6661505c275eac6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init(selector: ObjectiveC.Selector) -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - cf33b84439145c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__allocating_init() -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - 2840e952ef480e49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.init() -&gt; UITestingTutorialUITests.UITestingTutorialUITests"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "A369FC23-F469-40C6-B14A-4DE68B552563 - 21543c5b4e9fbd30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UITestingTutorialUITests.UITestingTutorialUITests.__deallocating_deinit"
+                  moduleName = "UITestingTutorialUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrisenitan/Documents/tests/ios/UITestingTutorialUITests/UITestingTutorialUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

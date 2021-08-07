@@ -1,0 +1,2 @@
+com/blinkslabs/blinkist/android/challenge/test/BuildConfig.java
+ com.blinkslabs.blinkist.android.challenge.test.BuildConfig

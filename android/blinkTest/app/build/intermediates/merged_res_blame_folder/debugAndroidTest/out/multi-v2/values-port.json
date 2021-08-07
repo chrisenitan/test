@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/422a2814d5659841154c5c611207299f/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

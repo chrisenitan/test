@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_books.xml",
+        "source": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/res/layout/activity_books.xml"
+    },
+    {
+        "merged": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/book_list_item.xml",
+        "source": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/res/layout/book_list_item.xml"
+    },
+    {
+        "merged": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/webview.xml",
+        "source": "/Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/res/layout/webview.xml"
+    }
+]

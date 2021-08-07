@@ -1,0 +1,23 @@
+com/blinkslabs/blinkist/android/challenge/ui/BooksViewModel_Factory.java
+ com.blinkslabs.blinkist.android.challenge.ui.BooksViewModel_Factory
+com/blinkslabs/blinkist/android/challenge/di/DaggerApplicationComponent.java
+ com.blinkslabs.blinkist.android.challenge.di.DaggerApplicationComponent
+ com.blinkslabs.blinkist.android.challenge.di.DaggerApplicationComponent$1
+ com.blinkslabs.blinkist.android.challenge.di.DaggerApplicationComponent$Factory
+com/blinkslabs/blinkist/android/challenge/data/BooksService_Factory.java
+ com.blinkslabs.blinkist.android.challenge.data.BooksService_Factory
+com/blinkslabs/blinkist/android/challenge/ui/BooksActivity_MembersInjector.java
+ com.blinkslabs.blinkist.android.challenge.ui.BooksActivity_MembersInjector
+com/blinkslabs/blinkist/android/challenge/databinding/BookListItemBinding.java
+ com.blinkslabs.blinkist.android.challenge.databinding.BookListItemBinding
+com/blinkslabs/blinkist/android/challenge/data/api/MockBooksApi_Factory.java
+ com.blinkslabs.blinkist.android.challenge.data.api.MockBooksApi_Factory
+ com.blinkslabs.blinkist.android.challenge.data.api.MockBooksApi_Factory$InstanceHolder
+com/blinkslabs/blinkist/android/challenge/BuildConfig.java
+ com.blinkslabs.blinkist.android.challenge.BuildConfig
+com/blinkslabs/blinkist/android/challenge/ui/BooksViewModelFactory_Factory.java
+ com.blinkslabs.blinkist.android.challenge.ui.BooksViewModelFactory_Factory
+com/blinkslabs/blinkist/android/challenge/databinding/ActivityBooksBinding.java
+ com.blinkslabs.blinkist.android.challenge.databinding.ActivityBooksBinding
+com/blinkslabs/blinkist/android/challenge/databinding/WebviewBinding.java
+ com.blinkslabs.blinkist.android.challenge.databinding.WebviewBinding

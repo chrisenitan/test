@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/21f9ff951f38ca1db7f1cd9726bdbb4f/jetified-viewbinding-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/422a2814d5659841154c5c611207299f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/16c828a493043ba7d9c87636c58fda57/jetified-activity-ktx-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0a584baef861152f86fcbd79a43c0f7d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fac37328aec7a8106a94b2aa508ac788/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a5c54984dbc439f619f463158ea959e3/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/de3c87da3a5eaf2cdd5788b432b1bf1f/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/7ec5e65e996503bd59816c296a4ed146/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/dcb00b6c04821506c4f671fe7ad384b0/jetified-threetenabp-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/89dfc8e0e81088dbe82f34c516faddd8/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a8bdadcbeed13b42b9aabd596df6b4b8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/1e031e2424fde56b0917a67161d24091/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d501804194190d97a91b8912a24a473a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/80d511f96f9119be3ba0293fc62cb7ea/jetified-activity-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d3ff015e6c271388b6ce01125ddad696/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d53c0ee71f3352e73f2093e53b22aab6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feafcbb43f0247fe1a90497c730423ad/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feda74fec1e0aa7beaed094d2f90d63d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/36edc1651e50014dcc6e05fe6197571a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/66b518c06f8dd90e6bb192578d05f6ea/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b15d318034d3e7b878770cfe443b2bbc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/5b6c3ccb397eec87bf469b1e36e99f1c/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/00cd66ef7679bafaa4ba30735f52970a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/9668c38558dd7079697350f4b26f68ef/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/965e980f4bb18dc2b99f39febc6815b7/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/abcf6b8e805286c1da13c1f0c3b68599/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/439881796d925ebb4a5f680167100124/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b5cc7c860b578282707933e2de038273/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/04d98d6e9b6dc9216552caf8e58cc2ab/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/87dc4ac82ab4fbf0d641eea0e650e145/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/13a54f5fca99c95027aab67a424c14a7/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f74b38a4a5e6c42160d4e2a321f7f749/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/42a1e45bd9d605188bf4f18039e23d90/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f443419bdbfdd635a047a61c91c0353d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0e1e5b9019c961151343f44b8597b77b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:11-62
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/dcb00b6c04821506c4f671fe7ad384b0/jetified-threetenabp-1.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/dcb00b6c04821506c4f671fe7ad384b0/jetified-threetenabp-1.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/89dfc8e0e81088dbe82f34c516faddd8/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/89dfc8e0e81088dbe82f34c516faddd8/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/439881796d925ebb4a5f680167100124/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/439881796d925ebb4a5f680167100124/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:7:9-53
+activity#com.blinkslabs.blinkist.android.challenge.ui.BooksActivity
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:15:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.blinkslabs.blinkist.android.challenge.ui.WebViewActivity
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:22:9-27:20
+	android:parentActivityName
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:22:19-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:24:13-26:53
+	android:value
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:26:17-50
+	android:name
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml:25:17-63
+uses-sdk
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/21f9ff951f38ca1db7f1cd9726bdbb4f/jetified-viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/21f9ff951f38ca1db7f1cd9726bdbb4f/jetified-viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/422a2814d5659841154c5c611207299f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/422a2814d5659841154c5c611207299f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/16c828a493043ba7d9c87636c58fda57/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/16c828a493043ba7d9c87636c58fda57/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0a584baef861152f86fcbd79a43c0f7d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0a584baef861152f86fcbd79a43c0f7d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fac37328aec7a8106a94b2aa508ac788/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fac37328aec7a8106a94b2aa508ac788/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a5c54984dbc439f619f463158ea959e3/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a5c54984dbc439f619f463158ea959e3/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/de3c87da3a5eaf2cdd5788b432b1bf1f/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/de3c87da3a5eaf2cdd5788b432b1bf1f/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/7ec5e65e996503bd59816c296a4ed146/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/7ec5e65e996503bd59816c296a4ed146/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/dcb00b6c04821506c4f671fe7ad384b0/jetified-threetenabp-1.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/dcb00b6c04821506c4f671fe7ad384b0/jetified-threetenabp-1.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/89dfc8e0e81088dbe82f34c516faddd8/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/89dfc8e0e81088dbe82f34c516faddd8/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a8bdadcbeed13b42b9aabd596df6b4b8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/a8bdadcbeed13b42b9aabd596df6b4b8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/1e031e2424fde56b0917a67161d24091/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/1e031e2424fde56b0917a67161d24091/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d501804194190d97a91b8912a24a473a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d501804194190d97a91b8912a24a473a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/80d511f96f9119be3ba0293fc62cb7ea/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/80d511f96f9119be3ba0293fc62cb7ea/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d3ff015e6c271388b6ce01125ddad696/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d3ff015e6c271388b6ce01125ddad696/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d53c0ee71f3352e73f2093e53b22aab6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/d53c0ee71f3352e73f2093e53b22aab6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feafcbb43f0247fe1a90497c730423ad/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feafcbb43f0247fe1a90497c730423ad/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feda74fec1e0aa7beaed094d2f90d63d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/feda74fec1e0aa7beaed094d2f90d63d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/36edc1651e50014dcc6e05fe6197571a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/36edc1651e50014dcc6e05fe6197571a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/66b518c06f8dd90e6bb192578d05f6ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/66b518c06f8dd90e6bb192578d05f6ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/df4e9c9aa194643a0c74d2f337c5d422/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b15d318034d3e7b878770cfe443b2bbc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b15d318034d3e7b878770cfe443b2bbc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/5b6c3ccb397eec87bf469b1e36e99f1c/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/5b6c3ccb397eec87bf469b1e36e99f1c/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/00cd66ef7679bafaa4ba30735f52970a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/00cd66ef7679bafaa4ba30735f52970a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/9668c38558dd7079697350f4b26f68ef/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/9668c38558dd7079697350f4b26f68ef/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/965e980f4bb18dc2b99f39febc6815b7/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/965e980f4bb18dc2b99f39febc6815b7/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/abcf6b8e805286c1da13c1f0c3b68599/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/abcf6b8e805286c1da13c1f0c3b68599/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/439881796d925ebb4a5f680167100124/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/439881796d925ebb4a5f680167100124/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b5cc7c860b578282707933e2de038273/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/b5cc7c860b578282707933e2de038273/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/04d98d6e9b6dc9216552caf8e58cc2ab/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/04d98d6e9b6dc9216552caf8e58cc2ab/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/87dc4ac82ab4fbf0d641eea0e650e145/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/87dc4ac82ab4fbf0d641eea0e650e145/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/13a54f5fca99c95027aab67a424c14a7/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/13a54f5fca99c95027aab67a424c14a7/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f74b38a4a5e6c42160d4e2a321f7f749/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f74b38a4a5e6c42160d4e2a321f7f749/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/42a1e45bd9d605188bf4f18039e23d90/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/42a1e45bd9d605188bf4f18039e23d90/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f443419bdbfdd635a047a61c91c0353d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/f443419bdbfdd635a047a61c91c0353d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0e1e5b9019c961151343f44b8597b77b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/0e1e5b9019c961151343f44b8597b77b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrisenitan/Documents/blinkTest/QAAutomationChallenge-Android/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chrisenitan/.gradle/caches/transforms-2/files-2.1/fee7ddff714952b45de4c88206fcd821/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

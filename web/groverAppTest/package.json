@@ -1,0 +1,28 @@
+{
+  "name": "groverapptest",
+  "version": "1.0.0",
+  "description": "Cypress based Grover web automation challenge 2021",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Starting CY... \" && npx cypress version --component package && echo \"Latest Available CY: \" && npm view cypress version && npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisenitan/groverAppTest.git"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "web",
+    "challenge"
+  ],
+  "author": "Chris Enitan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisenitan/groverAppTest/issues"
+  },
+  "homepage": "https://github.com/chrisenitan/groverAppTest#readme",
+  "dependencies": {
+    "cypress": "^8.3.0"
+  }
+}

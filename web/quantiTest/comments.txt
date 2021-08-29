@@ -1,0 +1,8 @@
+*Comments & Feedbacks*
+# Would be helpful to reset the dashboard so null cases can be compared and asserted properly
+# The scenarios would be different if I had access to more than one test survey and dashboard. Cases can be properly isolated
+# Quite a lot of dependencies between dynamic option screening out, we'd have to build safe checks into that test
+# Tests requiring in-state variable might fail on changes to number format. need to slice string with negative param
+# Radio form on question 1 is often invalidated, might be related to client cache, will need to investigate why and write a failsafe retry for that
+# Approach document can be found in /cypress/docs/working_document.pdf
+# Might need a library to assert graphs better

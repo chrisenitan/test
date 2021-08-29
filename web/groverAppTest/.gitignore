@@ -1,0 +1,17 @@
+.vscode/
+#example tests
+cypress/integration/1-getting-started/
+cypress/integration/2-advanced-examples/
+
+#asset files
+cypress/videos/
+cypress/screenshots/
+
+#external reports
+cypress/reports/
+
+#default node module
+node_modules
+
+#cypress local config file
+cypress.env.json

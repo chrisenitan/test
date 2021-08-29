@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://www.imdb.com/chart/top",
+  "chromeWebSecurity": false,
+  "retries": {
+    "runMode": 0,
+    "openMode": 0
+  },
+  "viewportWidth": 1400,
+  "viewportHeight": 760,
+  "parseSpecialCharSequences": false
+}

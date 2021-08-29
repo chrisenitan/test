@@ -1,0 +1,13 @@
+{
+  "getStartedButton": "#startSurvey",
+  "indexWelcomeBanner": ".qlp-survey-cover-sheet-intro",
+  "questionBanner": ".qlp-survey-question-container",
+  "questionTwoInput": "#TzFEhMQLSM9w4gB4P",
+  "radioButtons": ".qRadioDisplay",
+  "nextButton":"#nextPage",
+  "graphs": ".highcharts-series",
+  "graphData": ".highcharts-point",
+  "graphTitle": ".qlp-dashboard-tile-content",
+  "responseTotal": ".highcharts-credits",
+  "responsePercent": ".highcharts-root"
+}

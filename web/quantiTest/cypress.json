@@ -1,0 +1,18 @@
+{
+    "env": {
+      "url": {
+        "surveyBaseUrl": "https://survey.quantilope.com/SfidqfGjdrvMzwzWK/SYKoXv8g9ro4fdeQt/4gJmNPobR7zvowkj2",
+        "dashBoardBaseUrl": "https://app.quantilope.com/share/xbsMx9EpnphEegPcW?type=dashboard"
+      }
+    },
+    "chromeWebSecurity": false,
+    "retries": {
+      "runMode": 2,
+      "openMode": 0
+    },
+    "viewportWidth": 1400,
+    "viewportHeight": 760,
+    "parseSpecialCharSequences": false,
+    "experimentalStudio": true
+  }
+  

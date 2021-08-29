@@ -1,0 +1,11 @@
+{
+  "chart": {
+    "movieSort": "#lister-sort-by-options",
+    "selectedMovieSort": "select#lister-sort-by-options option:selected",
+    "movieList": ".lister-list",
+    "genreList": ".subnav_item_main"
+  },
+  "search": {
+    "pageHeader": ".article > .header"
+  }
+}

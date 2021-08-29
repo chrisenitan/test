@@ -1,0 +1,24 @@
+{
+  "name": "qaeq",
+  "version": "1.0.0",
+  "description": "Test task case study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx cypress open",
+    "surveyTest": "npx cypress run --spec 'cypress/integration/survey.js' --browser electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisenitan/qaeq"
+  },
+  "keywords": [
+    "test",
+    "quantilope"
+  ],
+  "author": "Chris Enitan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.5.0"
+  }
+}

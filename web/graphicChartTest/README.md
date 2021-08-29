@@ -1,6 +1,3 @@
-# QUALITY ASSURANCE ENGINEER QUANTILOPE TEST
-Test task case study: Design and implement tests for the survey answering and charts based on user provided story
-
 ## Main
 **Cypress based UI test for Survey and Dashboard**
 - Environments: Live

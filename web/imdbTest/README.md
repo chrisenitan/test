@@ -1,9 +1,4 @@
-# Grover Web Automation Challenge 2021
-
-Intake application challenege for role: [Frontend Test Automation Engineer](https://boards.greenhouse.io/grover/jobs/4619675003)
-
 ## Outlines
-- Position: Frontend Test Automation Engineer at [Grover](https://www.grover.com/de-en)
 - Environment: [IMDB.COM Chart View](http://www.imdb.com/chart/top)
 - Frameworks
     - [Cypress IO](https://www.cypress.io/)
@@ -18,8 +13,6 @@ Intake application challenege for role: [Frontend Test Automation Engineer](http
 
 ## Notes & Recommendations
 - Documents 
-  - Task outline: `docs/Web Automation Challenge.pdf`
   - Bugs Screenshots: `docs/bug_asset/`
-  - Task Approach Document: `docs/Task Approach Document.pdf`
   - Test status: `docs/testStatus.png`
 - Use [Cypress Helper](https://marketplace.visualstudio.com/items?itemName=Shelex.vscode-cy-helper) for code and command assits

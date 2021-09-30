@@ -11,19 +11,21 @@ const puppeteer = require("puppeteer")
     waitUntil: "networkidle2",
   })
 
-  let data = await page.evaluate(() => {
+  /*   let data = await page.evaluate(() => {
     var luckyFeeling = document.getElementById("gbqfbb").value
     var agree = document.getElementById("L2AGLb")
     return {
       luckyFeeling,
       agree,
     }
-  })
+  }) */
 
   await page.goto(movieUrl)
   await page.waitForSelector("#L2AGLb")
-  page.click("#L2AGLb", { clickCount: 2, delay: 1000 })
-  page.click("#gbqfbb")
+  page.click("#L2AGLb", { clickCount: 2, delay: 500 })
+  page.waitForTimer(2000)
+  //page.delay(2000)
+  page.click("#hplogo")
   //page.click("#js-link-box-pl")
 
   //console.log(data)

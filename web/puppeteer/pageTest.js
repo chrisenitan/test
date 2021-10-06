@@ -20,7 +20,9 @@ describe("Basics", () => {
 
     await page.waitForSelector("#L2AGLb")
     page.click("#L2AGLb", { clickCount: 2, delay: 500 })
-    //page.waitForTimer(2000)
+    console.time("test: ")
+    page.waitForTimeout(2000)
+    console.timeEnd("test: ")
     /*  await root.page.waitForSelector("input[title='Search']")
   await root.page.type("input[title='Search']", "Hello")
   page.click("#hplogo") */

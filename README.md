@@ -38,18 +38,3 @@ Test task case study: Design and implement tests for the multiple softwares
 2. Build project
    1. Tests are in the directory `QAAutomationChallenge-iOS/TestingChallengeUI_Tests/TestingChallengeUI_Tests.swift`
    2. Run configurations are in `TestingChallengeUI_Tests/TestingChallenge.xctestplan`
-
-## Approach
-
-1.  Explored the software manually and determined/established current and expected behaviours for both apps. This was used in developing the approach and assumptions.
-    1.  Expected behaviour is defined by industry software standard and no visible bug occurrences noticed.
-2.  Outline test priority/scope using the 2 provided goals
-    1.  Tests for the functionality in book list
-    2.  Tests for the Youtube video play functionality
-3.  Define test cases relevant for each story
-    1.  Export cases into manual regression checklist
-4.  Develop and expand cases into scenarios
-    1.  Convert scenarios into global assertions and functionality tests
-    2.  Polish test flow again
-5.  Write automation tests
-6.  Review Code and task files; submission

@@ -5,9 +5,13 @@ describe("Basics", () => {
     const browser = await puppeteer.launch({
       headless: false,
       devtools: true,
+      defaultViewport: {
+        width: 1400,
+        height: 760,
+      },
+      args: ["--window-size=1700,1024"],
     })
     const page = await browser.newPage()
-    await page.setViewport({ width: 1400, height: 760 })
     await page.goto("https://www.google.com")
     Object.assign(this.currentTest, {
       browser,
@@ -27,9 +31,6 @@ describe("Basics", () => {
     console.time("test: ")
     await page.waitForTimeout(2000)
     console.timeEnd("test: ")
-    /*  await root.page.waitForSelector("input[title='Search']")
-  await root.page.type("input[title='Search']", "Hello")
-  page.click("#hplogo") */
     await browser.close()
   })
 
@@ -47,6 +48,25 @@ describe("Basics", () => {
       path: "puppeteer/screenshots/index.png",
       fullpage: true,
     })
+    await browser.close()
+  })
+
+  it("Check Window/Document Data", async function () {
+    const browser = this.test.browser
+    const page = this.test.page
+    var pageUrl = await page.url()
+    console.log(pageUrl)
+
+    //get page text
+    const cookieText = await page.$eval("#S3BnEe", (text) => text.innerHTML)
+    console.log(cookieText)
+    //OR
+    let pageTexts = await page.evaluate(() => {
+      const nn = document.getElementById("S3BnEe").innerHTML
+      return nn
+    })
+    console.log(`new on is ${pageTexts}`)
+
     await browser.close()
   })
 })

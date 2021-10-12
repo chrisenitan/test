@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer")
+const expect = require("chai").expect
 
 describe("Basics", () => {
   beforeEach(async function () {
@@ -48,6 +49,16 @@ describe("Basics", () => {
       path: "puppeteer/screenshots/index.png",
       fullpage: true,
     })
+    for (i = 0; i < 3; i++) {
+      await page.keyboard.press("ArrowDown")
+    }
+    await page.keyboard.press("Enter")
+    await page.waitForTimeout(2000)
+    await page.screenshot({
+      type: "png",
+      path: "puppeteer/screenshots/result.png",
+      fullpage: true,
+    })
     await browser.close()
   })
 
@@ -55,11 +66,11 @@ describe("Basics", () => {
     const browser = this.test.browser
     const page = this.test.page
     var pageUrl = await page.url()
-    console.log(pageUrl)
+    expect(pageUrl).is.equal("https://www.google.com/")
 
     //get page text
     const cookieText = await page.$eval("#S3BnEe", (text) => text.innerHTML)
-    console.log(cookieText)
+    expect(cookieText).to.be.a("string").to.equal("Before you continue to Google Search")
     //OR
     let pageTexts = await page.evaluate(() => {
       const nn = document.getElementById("S3BnEe").innerHTML

@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer")
-const expect = require("chai").expect
+const { expect } = require("chai")
 
 describe("Basics", () => {
   beforeEach(async function () {

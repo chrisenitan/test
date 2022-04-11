@@ -1,6 +1,6 @@
-# UI Automation Test
+# Value Automation Test
 
-Open UI automation tests with test frameworks on all projects under this acconut.
+Automation tests with test frameworks on all projects under this acconut.
 Test task case study: Design and implement tests for the multiple softwares
 
 # Introduction

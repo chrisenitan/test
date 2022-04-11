@@ -5,7 +5,7 @@ Test task case study: Design and implement tests for the multiple softwares
 
 # Introduction
 
-- This is a monorepo containing web, iOS, API and Android tests
+- This is a simple draft of a monorepo containing web, iOS, API and Android tests
 
 # Frameworks
 
